@@ -1,0 +1,12 @@
+Copyright (c) 2026 Rizky Fildza
+
+This is a personal data science project. The source code is free to use,
+copy, modify, and share for any purpose; attribution is appreciated but
+not required. It is provided as-is, without any warranty.
+
+The dataset (data/dataset.csv) is not covered by the above. It is the
+"Spotify Tracks Dataset" by Maharshi Pandya, obtained from Kaggle:
+https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+(DOI: 10.34740/kaggle/dsv/4372070), and is redistributed here under its
+original terms: Database: Open Database License; Contents: copyright of
+the original authors.

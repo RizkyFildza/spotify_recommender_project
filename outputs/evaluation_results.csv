@@ -1,0 +1,4 @@
+system,genre_overlap@k,audio_distance@k,artist_diversity@k,mean_popularity@k
+random,0.014,4.114,0.999,32.798
+popularity_global,0.016,3.556,0.8,97.2
+content_based,0.993,1.365,0.856,33.75
